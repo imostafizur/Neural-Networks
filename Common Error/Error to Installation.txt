@@ -1,0 +1,7 @@
+Error During Installation of Tensorflow
+------------------------------------------------------
+Error:1 Python is not recognized as an internal or external command while checking python vrsion.
+Solution: Go to Inviroment veriables > System veriables >path > the paste this "C:\Users\mosta\AppData\Local\Programs\Python\Python39">click Ok>Exit
+
+Error:2 Pip is not recognized as an internal or external command while checking python vrsion.
+Solution:Go to Inviroment veriables > User veriable for  X >path > the paste this "C:\Users\mosta\AppData\Local\Programs\Python\Python39\Scripts">click Ok>Exit

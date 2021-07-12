@@ -1,0 +1,4 @@
+CMD
+>Cd C: \Users\User_name\AppData\Local\Programs\Python\Python39\Scripts
+>pip install jupyter
+>py -m notebook
