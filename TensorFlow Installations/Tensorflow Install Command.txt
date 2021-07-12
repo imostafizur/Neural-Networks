@@ -2,3 +2,4 @@
 >pip --version  //Check pip version 
 >pip install --user virtualenv
 >python -m pip install --upgrade tensorflow
+>pip show tensorflow //version check
