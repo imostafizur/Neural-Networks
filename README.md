@@ -36,6 +36,8 @@ This repository is about Neural Networks. A neural network is a series of algori
 + https://www.desmos.com/
 + https://www.symbolab.com/
 
+####### If you don't have enough idea about Algorithm Please visit 
++ [Data Structure and Algorithm](https://github.com/imostafizur/CSE225-Data-Structure-and-Algorithm.git)
 
 
 
