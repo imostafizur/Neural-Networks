@@ -16,8 +16,3 @@ Everyone should learn to code, but not everyone needs to become a software engin
 
 Normally this would involve hours of mindless clicking and typing. But programming your computer to do it will save you time and effort.
 
-Links and Appendix
-========================================================
-
-- Get the book: https://automatetheboringstuff.com/
-- About Al Sweigart and his works: https://alsweigart.com/
