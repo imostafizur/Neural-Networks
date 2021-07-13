@@ -45,7 +45,7 @@ Medicine, Electronic Nose, Security, and Loan Applications - These are some appl
 + [Symbolab](https://www.symbolab.com/)
 
 ##### If you don't have enough idea about Algorithm Please visit 
-+ [Data Structure and Algorithm](https://github.com/imostafizur/CSE225-Data-Structure-and-Algorithm.git)
++ [Data Structure and Algorithm](https://github.com/imostafizur/CSE225)
 
 
 
