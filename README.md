@@ -5,13 +5,13 @@
 
 
 ## Introduction
-
+#### What is Neural Network ?
 This repository is about Neural Networks. A neural network is a series of algorithms that endeavors to recognize underlying relationships in a set of data through a process that mimics the way the human brain operates. In this sense, neural networks refer to systems of neurons, either organic or artificial in nature.
 ##### Handwriting and pattern recognition using neural networks
 # ![neural-eeg-gif-1](https://user-images.githubusercontent.com/59665707/125409056-58ade100-e3dd-11eb-8e9a-919f9f7554db.gif)
 ![0_DwBD1y0LdbKac6zc](https://user-images.githubusercontent.com/59665707/125409591-da057380-e3dd-11eb-90d8-2e0ab5412b46.gif)
 
-### The uses of Neural Network 
+#### The uses of Neural Network 
 + Character Recognition - The idea of character recognition has become very important as handheld devices like the Palm Pilot are becoming increasingly popular. Neural networks can be used to recognize handwritten characters.
 + Image Compression - Neural networks can receive and process vast amounts of information at once, making them useful in image compression. With the Internet explosion and more sites using more images on their sites, using neural networks for image compression is worth a look.
 + Stock Market Prediction - The day-to-day business of the stock market is extremely complicated. Many factors weigh in whether a given stock will go up or down on any given day. Since neural networks can examine a lot of information quickly and sort it all out, they can be used to predict stock prices.
