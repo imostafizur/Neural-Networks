@@ -7,10 +7,10 @@ This repository is about Neural Networks. A neural network is a series of algori
 
 ## Topics
 
--1. Installation
+1. Installation
 *i)Jupyter Notebook Installation.
-**ii)Tensorflow Installtion
-**ii)Common error during Installation 
+*ii)Tensorflow Installtion
+*ii)Common error during Installation 
 
 2. Basic of Neural Network
 i)Neural Network Books
