@@ -14,6 +14,9 @@ This repository is about Neural Networks. A neural network is a series of algori
 2. Basic of Neural Network
 + i)Neural Network Books
 3. Math behind the Neural Network
++ linear regression
++ Elementary linear algebra
++ Advance Math for Neural Network
 
 
 
