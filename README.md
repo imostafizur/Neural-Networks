@@ -32,9 +32,9 @@ This repository is about Neural Networks. A neural network is a series of algori
 + Elementary linear algebra
 + Advance Math for Neural Network
 ##### Important plotting tool for mathematics
-+ https://www.geogebra.org/?lang=en
-+ https://www.desmos.com/
-+ https://www.symbolab.com/
++ [Geogebra](https://www.geogebra.org/?lang=en)
++ [Desmos](https://www.desmos.com/)
++ [Symbolab](https://www.symbolab.com/)
 
 ##### If you don't have enough idea about Algorithm Please visit 
 + [Data Structure and Algorithm](https://github.com/imostafizur/CSE225-Data-Structure-and-Algorithm.git)
