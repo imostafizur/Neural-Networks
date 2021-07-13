@@ -1,5 +1,6 @@
 # Neural-Networks
-![Alt Text](https://user-images.githubusercontent.com/59665707/125408494-c6a5d880-e3dc-11eb-8c48-9de54e40e0f5.png)
+![Alt Text] (https://user-images.githubusercontent.com/59665707/125408780-12588200-e3dd-11eb-8f78-4726fc878fe3.png)
+
 
 
 ## Introduction
