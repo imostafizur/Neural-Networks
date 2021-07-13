@@ -29,7 +29,7 @@ This repository is about Neural Networks. A neural network is a series of algori
 
 ### 4. Math behind the Neural Network
 + [linear regression](https://github.com/imostafizur/Neural-Networks/tree/master/Maths%20Behind%20the%20Neural%20Network/Linear%20Regression)
-+ [Elementary linear algebra](https://github.com/imostafizur/Neural-Networks/tree/master/Maths%20Behind%20the%20Neural%20Network/ELEMENTARY%20LINEAR%20ALGEBRA%20(MAT125)
++ [Elementary linear algebra](https://github.com/imostafizur/Neural-Networks/tree/master/Maths%20Behind%20the%20Neural%20Network/ELEMENTARY%20LINEAR%20ALGEBRA%20(MAT125))
 + [Advance Math for Neural Network](https://github.com/imostafizur/Neural-Networks/tree/master/Maths%20Behind%20the%20Neural%20Network/Advance)
 ##### Important plotting tool for mathematics
 + [Geogebra](https://www.geogebra.org/?lang=en)
