@@ -15,7 +15,7 @@ This repository is about Neural Networks. A neural network is a series of algori
 ### 1. Installation
 + Jupyter Notebook Installation.
 + Tensorflow Installtion
-+ Common error during Installation 
++ [Common error during Installation ](https://github.com/imostafizur/Neural-Networks/tree/master/Common%20Error)
 
 ### 2. Basic of Neural Network
 + Neural Network Books
