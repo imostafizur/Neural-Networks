@@ -13,24 +13,24 @@ This repository is about Neural Networks. A neural network is a series of algori
 
 ## Topics
 ### 1. Installation
-+ Jupyter Notebook Installation.
++ [Jupyter Notebook Installation.](https://github.com/imostafizur/Neural-Networks/tree/master/Jupyter%20Notebook%20Installation)
 + [Tensorflow Installtion](https://github.com/imostafizur/Neural-Networks/tree/master/TensorFlow%20Installations)
 + [Common error during Installation ](https://github.com/imostafizur/Neural-Networks/tree/master/Common%20Error)
 
 ### 2. Basic of Neural Network
-+ Neural Network Books
-+ Neural Network Programming Problem Solution
++ [Neural Network Books](https://github.com/imostafizur/Neural-Networks/tree/master/Neural%20Network%20Book)
++ [Neural Network Programming Problem Solution](https://github.com/imostafizur/Neural-Networks/tree/master/Neural%20Network%20Book/All%20Code)
 ##### Important Tools for Neural Network Algorithm
 
 + [TensorFlow Playground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.53454&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
 
 ### 3.Python Programming Language
-+  Books and its Soltion
++  [Books and its Soltion](https://github.com/imostafizur/Neural-Networks/tree/master/Python/Basic)
 
 ### 4. Math behind the Neural Network
-+ linear regression
-+ Elementary linear algebra
-+ Advance Math for Neural Network
++ [linear regression](https://github.com/imostafizur/Neural-Networks/tree/master/Maths%20Behind%20the%20Neural%20Network/Linear%20Regression)
++ [Elementary linear algebra](https://github.com/imostafizur/Neural-Networks/tree/master/Maths%20Behind%20the%20Neural%20Network/ELEMENTARY%20LINEAR%20ALGEBRA%20(MAT125)
++ [Advance Math for Neural Network](https://github.com/imostafizur/Neural-Networks/tree/master/Maths%20Behind%20the%20Neural%20Network/Advance)
 ##### Important plotting tool for mathematics
 + [Geogebra](https://www.geogebra.org/?lang=en)
 + [Desmos](https://www.desmos.com/)
