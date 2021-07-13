@@ -1,5 +1,4 @@
 # Neural-Networks
-![neural-eeg-gif-1](https://user-images.githubusercontent.com/59665707/125409056-58ade100-e3dd-11eb-8e9a-919f9f7554db.gif)
 
 
 
@@ -7,6 +6,9 @@
 ## Introduction
 
 This repository is about Neural Networks. A neural network is a series of algorithms that endeavors to recognize underlying relationships in a set of data through a process that mimics the way the human brain operates. In this sense, neural networks refer to systems of neurons, either organic or artificial in nature.
+##### handwriting and pattern recognition using neural networks
+![neural-eeg-gif-1](https://user-images.githubusercontent.com/59665707/125409056-58ade100-e3dd-11eb-8e9a-919f9f7554db.gif)
+![0_DwBD1y0LdbKac6zc](https://user-images.githubusercontent.com/59665707/125409591-da057380-e3dd-11eb-90d8-2e0ab5412b46.gif)
 
 ## Topics
 ### 1. Installation
