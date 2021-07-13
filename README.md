@@ -28,6 +28,10 @@ This repository is about Neural Networks. A neural network is a series of algori
 + linear regression
 + Elementary linear algebra
 + Advance Math for Neural Network
+##### important Tools
++ https://www.geogebra.org/?lang=en
++ https://www.desmos.com/
++ https://www.symbolab.com/
 
 
 
