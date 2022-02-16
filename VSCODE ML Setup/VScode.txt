@@ -1,0 +1,4 @@
+Go to vscode:
+1.pip install sklearn Error:ModuleNotFoundError: No module named 'sklearn'
+2.pip install pandas Error: ModuleNotFoundError: No module named 'Pandas'
+2.pip install matplotlib Error:ModuleNotFoundError: No module named 'matplotlib'
